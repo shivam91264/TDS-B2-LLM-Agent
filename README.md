@@ -2,8 +2,14 @@
 
 An advanced browser-based AI agent that uses multiple tools in a reasoning loop to accomplish complex tasks intelligently.
 
-## Vercel Deployed link:--
-**https://tds-b2-llm-agent.vercel.app/**
+---
+
+## 🌐 Live Demo
+
+🚀 **Try the Agent Here:**  
+👉 [https://tds-b2-llm-agent.vercel.app/](https://tds-b2-llm-agent.vercel.app/)
+
+---
 
 ## Features
 
